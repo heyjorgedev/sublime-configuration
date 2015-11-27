@@ -1,0 +1,8 @@
+{
+	"autoimport": true,
+	"enable_auto_align": true,
+	"psr2": true,
+	"smart_linebreak_after_curly": true,
+	"version": 1,
+	"yoda": false
+}
